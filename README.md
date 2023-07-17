@@ -1,2 +1,2 @@
-# react.js node.js microservice project
+# ReactJs NodeJs microservice project
 Built simple microservise project using ReactJs and NodeJs
